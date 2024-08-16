@@ -50,6 +50,6 @@ We invite collaboration and feedback from the data science and machine learning 
 
 ## Contact
 For any questions, suggestions, or contributions, please feel free to open an issue or submit a pull request. Let’s work together to address the challenges of hierarchical mixed data clustering!
-DJEBALI Sonia : sonia.djebali@devinci.fr
-GUERARD Guillaume : guillaume.guerard@devinci.fr
-THOMASSIN Pablo : pablo.thomassin@edu.devinci.fr
+- DJEBALI Sonia : sonia.djebali@devinci.fr
+- GUERARD Guillaume : guillaume.guerard@devinci.fr
+- THOMASSIN Pablo : pablo.thomassin@edu.devinci.fr
