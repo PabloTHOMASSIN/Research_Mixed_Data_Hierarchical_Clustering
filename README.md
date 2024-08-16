@@ -27,13 +27,13 @@ pip install -r requirements.txt
 ### Required Packages
 Make sure your environment includes the following Python packages:
 
-scikit-learn (version X.X.X) : For standard clustering and preprocessing utilities.
-- pandas (version X.X.X) : To handle mixed datasets and data manipulation.
-- scipy (version X.X.X) : For hierarchical clustering and other scientific computations.
-- numpy (version X.X.X) : For numerical operations and array management.
-- networkx (version X.X.X) : For the graph manipulationb and visualization
-- matplotlib (version X.X.X) : For short visualization
-- searborn (version X.X.X) : For enhanced visualization
+- pandas (version 2.2.1) : To handle mixed datasets and data manipulation.
+- scipy (version 1.13.0) : For hierarchical clustering and other scientific computations.
+- numpy (version 1.26.4) : For numerical operations and array management.
+- networkx (version 3.3) : For graph manipulation and visualization.
+- matplotlib (version 3.8.3) : For short visualization.
+- seaborn (version 0.13.2) : For enhanced visualization.
+- scikit-learn (version 1.4.2) : For machine learning algorithms and preprocessing.
 Ensure your environment is properly configured to run the provided scripts and algorithms smoothly.
 
 ## How to Use This Repository
