@@ -4,7 +4,7 @@ Welcome to the GitHub repository dedicated to our innovative research on tacklin
 
 Our research introduces advanced methodologies designed to improve the efficiency and accuracy of hierarchical clustering when dealing with datasets that contain both categorical and numerical features. This repository is intended to be a comprehensive resource for researchers, data scientists, and machine learning enthusiasts who are grappling with the complexities of mixed data clustering.
 
-##Key Features
+## Key Features
 Within this repository, you’ll discover:
 
 Implementation of Hierarchical Clustering Algorithms: Code for clustering algorithms specifically adapted for mixed data types, including enhancements to handle categorical and numerical features simultaneously.
@@ -17,14 +17,14 @@ Sample Datasets: Example datasets that exhibit mixed features, provided to test 
 
 Comprehensive Documentation: Detailed documentation guiding you through the installation, implementation, and application of our hierarchical clustering techniques.
 
-##Getting Started
-###Installation
+## Getting Started
+### Installation
 To get started, we recommend setting up a virtual environment (venv) to manage dependencies. Once your environment is ready, install the required packages using the following command:
 
 bash
 Copier le code
 pip install -r requirements.txt
-###Required Packages
+### Required Packages
 Make sure your environment includes the following Python packages:
 
 scikit-learn (version X.X.X) : For standard clustering and preprocessing utilities.
@@ -36,7 +36,7 @@ matplotlib (version X.X.X) : For short visualization
 searborn (version X.X.X) : For enhanced visualization
 Ensure your environment is properly configured to run the provided scripts and algorithms smoothly.
 
-##How to Use This Repository
+## How to Use This Repository
 Preprocessing: Start by using the provided preprocessing scripts to prepare your mixed dataset for clustering. The scripts handle categorical encoding, normalization, and missing value imputation.
 
 Clustering: Run the hierarchical clustering algorithms on your prepared dataset. You can experiment with different linkage criteria and distance metrics to observe their effects on the clustering output.
@@ -45,12 +45,10 @@ Evaluation: Use the evaluation scripts to assess the quality of your clustering 
 
 Explore and Innovate: Dive into the code, experiment with different datasets and configurations, and contribute your findings or enhancements to the repository.
 
-##Contribution
+## Contribution
 We invite collaboration and feedback from the data science and machine learning communities. Whether you’re an expert in clustering techniques or just getting started, your insights and contributions are welcome. Together, we can push the boundaries of hierarchical clustering for mixed data types and develop more effective methods.
 
-
-
-##Contact
+## Contact
 For any questions, suggestions, or contributions, please feel free to open an issue or submit a pull request. Let’s work together to address the challenges of hierarchical mixed data clustering!
 DJEBALI Sonia : sonia.djebali@devinci.fr
 GUERARD Guillaume : guillaume.guerard@devinci.fr
